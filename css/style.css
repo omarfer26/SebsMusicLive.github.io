@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.button{
+    margin-top: 32px;
+}
+header{
+    text-align: center;
+    min-width: 20%;
+    max-width: 100%;
+    min-height: auto;
+    max-height: auto;
+
+}
